@@ -1,0 +1,5 @@
+provider: bitbucket_data_center
+base_url: https://bitbucket.example.com
+bitbucket_project_keys:
+  - ABC
+  - DEF

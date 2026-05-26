@@ -1,0 +1,5 @@
+provider: bitbucket
+# base_url defaults to https://bitbucket.org for cloud
+bitbucket_workspaces:
+  - my-workspace
+  - another-workspace

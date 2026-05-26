@@ -1,0 +1,6 @@
+provider: gitlab
+# base_url defaults to https://gitlab.com for cloud.
+# For self-managed, set provider: gitlab_self_managed and supply base_url.
+gitlab_groups:
+  - my-group
+  - my-group/subgroup

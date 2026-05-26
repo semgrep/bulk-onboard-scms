@@ -1,0 +1,6 @@
+provider: azure_devops
+# Azure DevOps baseUrl typically embeds the organization.
+base_url: https://dev.azure.com/my-org
+azure_devops_organizations:
+  - my-org
+  - another-org
